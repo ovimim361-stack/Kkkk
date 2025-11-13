@@ -28,7 +28,20 @@ module.exports.handleEvent = async function ({ api, event, Users }) {
     "pro": "Khud k0o KYa LeGend SmJhTi Hai 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "tor ball": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
-    "shahadat": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
+    "hasib": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
+    " ki": ki mane
+  "ki koro": bow r sathe ghumai
+    " hasib":ke:amar boss hasib
+    "good night": hasib r inbox a call diya ghuamo
+    " khaico":ha tumi khaico
+     "gan kow": tumi age bolo
+     " hasib koi":tumar mone
+     "koi jao": sosur bari 
+     " singe":hasib r sathe prem korba
+     " gali daw kn":amar valo lage
+      "hasib bot": amar boss busy ache
+  
+      
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ KING HASIB☜\nFacebook: https://www.facebook.com/profile.php?id= 100001207035597\nWhatsApp: +966576925187",
     "admin": "He is KING HASIBতাকে সবাই Cyber Bot Team Saport Admin হিসেবে চিনে😘☺️",
     "babi": "এ তো হাছিনা হে মেরে দিলকি দারকান হে মেরি জান হে😍.",
