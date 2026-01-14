@@ -1,1 +1,128 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261585555917135%22%3A%22DYgZlM7u%22%2C%2261585799850669%22%3A%22tYWJAPv7%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.103Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "datr",
+        "value": "atM2aSeT-Df2Ap9mNg0Uosc_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "sb",
+        "value": "a9M2aSxk22YktsQ48WIW2qtV",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B671x360x3",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "oo",
+        "value": "v1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "pas",
+        "value": "61584368270017%3AmiTgvLsEV4%2C61582935947259%3ACYTNwu9LJl%2C61585555917135%3ADxHwiNoZOL%2C61585799850669%3AzSXvZHjufw%2C61585802072193%3APRtqHeCe7k",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61585802072193",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "xs",
+        "value": "9%3AIXtFwgTsStjBKQ%3A2%3A1768145293%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "fr",
+        "value": "0wjBTy54pJJttn25p.AWeDw7ZBoegd5q0EVs-0ir5uRv6VroEOgmsp9tjH9visw52WzhY.BpOozf..AAA.0.0.BpZ5m2.AWd_ZRSy_B3CCnNBfTWe065WZDw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100634223%3BT%3A29473287",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3051%3Btimestamp%3A1768397238",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-01-14T13:55:53.104Z",
+        "lastAccessed": "2026-01-14T13:55:53.104Z"
+    }
+]
